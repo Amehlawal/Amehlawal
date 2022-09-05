@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amehlawal
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Web3..
 - 🌱 I’m currently a Software Engineering Intern
 - 📫 amehlawal@gmail.com
 
