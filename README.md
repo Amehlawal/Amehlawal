@@ -1,4 +1,4 @@
-- 🌱 I’m a Full Stack Software Engineering Intern
+- 🌱 I’m a Full Stack Software Engineering 
 - 📫 amehlawal@gmail.com
 
 <!---
