@@ -1,4 +1,4 @@
-- 🌱 I’m a Full Stack Software Engineering 
+- 🌱 Tech Savvy
 - 📫 amehlawal@gmail.com
 
 <!---
