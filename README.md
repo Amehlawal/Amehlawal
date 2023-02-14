@@ -1,4 +1,5 @@
 - 🌱 Tech Savvy
+- 🧑‍💻 Knowing it all🧘+🏹+🎯
 - 📫 amehlawal@gmail.com
 
 <!---
