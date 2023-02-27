@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Custom styles */
+:root {
+
+
+    --clr-dark: #303030;
+    --clr-gold: #645124;
+     
+    --fs-h1: 3rem;
+    --fs-body: 1rem;
+    
+}
