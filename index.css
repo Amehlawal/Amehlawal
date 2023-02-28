@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+
 /* Custom properties */
 :root {
     --gap: 24px;
@@ -24,13 +25,14 @@
 
 /*  General styles */
 
-body {
+html,body {
     background-color: var(--clr-dark);
     color: var(--clr-gold);
     padding: 10px;
     font-size: var(--fs-body);
     font-family: var(--ff-primary);
     line-height: 1.6;
+    height: 100%
 }
 header {
     display: flex;
@@ -39,6 +41,7 @@ header {
     align-items: center;
     max-width: var(--nav-width);
     padding: 30px 5%;
+    /*height: 10%;*/
 }
 
 h1 {font-size: var(--fs-h1);}
@@ -65,6 +68,7 @@ li, a {
 }
 
 .logo {
+    position: relative;
     font-size: 24px;
     font-weight: 900;
     cursor: pointer;    
@@ -78,14 +82,18 @@ main {
     flex-direction: column;
     align-items: center;
     max-width: ;
+    height: 80%;
     text-align: center;
 }
 
 /* Footer */
 footer {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    align-items: ;
 }
 .footer {
     text-align: center;
+    align-items: center;
 }
 
