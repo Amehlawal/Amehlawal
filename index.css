@@ -1,14 +1,10 @@
 * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
-
-
-/* Custom properties */
 :root {
     --gap: 24px;
-    --nav-width: px;
 
     --ff-primary: font-family: 'Roboto Mono', monospace;
 
@@ -23,77 +19,69 @@
 
 }
 
-/*  General styles */
-
-html,body {
+html, body {
     background-color: var(--clr-dark);
     color: var(--clr-gold);
-    padding: 10px;
     font-size: var(--fs-body);
     font-family: var(--ff-primary);
-    line-height: 1.6;
-    height: 100%
 }
+
 header {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    max-width: var(--nav-width);
-    padding: 30px 5%;
-    /*height: 10%;*/
-}
-
-h1 {font-size: var(--fs-h1);}
-
-li, a { 
-    text-decoration: none;
-    color: var(--clr-gold);
-}
-/* Header */
-.nav__list {
-    word-break: keep-all;
-}
-
-.nav__list li {
-    display: inline-block;
-    padding: 0px 15px;
-}
-.nav__list li a {
-    transition: all 0.2s ease 0s;
-}
-
-.nav__list li a:hover {
-    color: #9c020f;
+    padding: 30px 10px;
 }
 
 .logo {
-    position: relative;
-    font-size: 24px;
-    font-weight: 900;
-    cursor: pointer;    
-    margin: auto var(--gap);
+    font-size: 30px;
+    font-weight: var(--fw-bold);
 }
 
-/* Main */
+.logo a {
+    text-decoration: none;
+    color: var(--clr-gold);
+}
+
+.nav__list {
+    list-style: none;
+}
+
+nav>ul>li {
+    display: inline-block;
+    padding: 10px;
+}
+nav>ul>li>a {
+    text-decoration: none;
+    color: var(--clr-gold);
+}
+
+nav>ul>li>a:hover {
+    color: brown;
+}
+
+
 main {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
-    max-width: ;
-    height: 80%;
+    padding: 150px;
     text-align: center;
 }
 
-/* Footer */
 footer {
-    display: flex;
-    flex-direction: column;
-    align-items: ;
-}
-.footer {
+    padding: 30px;
     text-align: center;
-    align-items: center;
 }
 
+footer a {
+    color: var(--clr-gold);
+    text-decoration: none;
+}
+
+.social-icons {
+    margin-top: 4px;
+}
+
+.social-icons a {
+    padding: 5px;
+    color: var(--clr-gold);
+}
