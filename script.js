@@ -1,1 +1,1 @@
-alert('this site is still undergoing development, got my hands full but will finish soon. Thanks')
+alert('This is a work in progress')
