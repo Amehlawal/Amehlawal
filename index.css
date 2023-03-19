@@ -128,10 +128,20 @@ footer a {
         margin-left: auto;
         margin-right: auto;
     }
-    .nav__list {
-        font-size: 18px;
+    
+    nav>ul>li {
+        font-size: 17px;    
     }
     main {
         padding: 120px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .profile {
+        width: 200px;
+    }
+    .profile p {
+        font-size: 17px;
     }
 }
