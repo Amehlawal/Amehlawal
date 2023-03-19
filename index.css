@@ -139,7 +139,7 @@ footer a {
         font-size: 30px;
     }
     .profile {
-        width: 200px;
+        width: fit-content;
     }
     .profile p {
         font-size: 17px;
