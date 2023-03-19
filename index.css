@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    
+    box-sizing: border-box;
 }
 :root {
     --gap: 24px;
@@ -35,13 +35,16 @@ header {
 }
 
 .logo {
-    font-size: 30px;
+    font-size: 2em;
     font-weight: var(--fw-bold);
-}
+ }
 
 .logo a {
     text-decoration: none;
     color: var(--clr-gold);
+}
+.logo a:hover {
+    text-transform: uppercase;
 }
 
 .nav__list {
@@ -50,15 +53,18 @@ header {
 
 nav>ul>li {
     display: inline-block;
+    font-size: 20px;
     padding: 10px;
 }
 nav>ul>li>a {
     text-decoration: none;
     color: var(--clr-gold);
+    font-weight: var(--fw-bold);
 }
 
 nav>ul>li>a:hover {
     color: brown;
+    text-transform: uppercase;
 }
 
 
@@ -67,9 +73,43 @@ main {
     text-align: center;
 }
 
+.profile {
+    width: 80%;
+    background-color: #201f1f;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    max-width: 400px;
+}
+
+.social-icons {
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.social-icons a {
+    padding: 5px;
+    color: var(--clr-gold);
+}
+
+.social-icons a:hover {
+    color: black;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+p {
+    padding: 0;
+    font-size: 18px;
+}
+
 footer {
     padding: 30px;
     text-align: center;
+
 }
 
 footer a {
@@ -77,11 +117,21 @@ footer a {
     text-decoration: none;
 }
 
-.social-icons {
-    margin-top: 4px;
-}
 
-.social-icons a {
-    padding: 5px;
-    color: var(--clr-gold);
+
+@media screen and (max-width: 600px) {
+    header {
+      padding: 20px 10px;
+    }
+    .logo {
+        font-size: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .nav__list {
+        font-size: 18px;
+    }
+    main {
+        padding: 120px;
+    }
 }
