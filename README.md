@@ -1,5 +1,5 @@
-- 🌱 Tech Savvy
-- 🧑‍💻 Knowing it all🧘+🏹+🎯
+- 🌱 Software Engineer
+- 🧑‍💻 🧘+🏹+🎯
 
 <!---
 Amehlawal/Amehlawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
