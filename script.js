@@ -1,9 +1,1 @@
-alert('This is a work in progress')
-
-const toggleButton = document.getElementsByClassName('toggle-button')[0];
-
-const navbarLinks = document.getElementsByClassName('navbar-links')[0];
-
-toggleButton.addEventListener('click', () => {
-    navbarLinks.classList.toggle('active')
-});
+document.getElementById("year").textContent = new Date().getFullYear();
