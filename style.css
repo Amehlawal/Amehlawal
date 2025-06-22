@@ -26,6 +26,7 @@
   padding: 0.75rem 1.5rem;
   background-color: #1a1a1a;
   gap: 2rem; /* optional: controls space between logo and links */
+    text-align: center;
 }
 .logo {
   margin-right: 2rem;
