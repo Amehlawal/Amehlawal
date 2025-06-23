@@ -7,7 +7,18 @@
       font-family: 'Roboto Mono', monospace;
       background-color: #0f0f0f;
       color: #fff;
+      display: flex;
+  flex-direction: column;
     }
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+
+main {
+  flex: 1;
+}
 
     a {
       color: #FFD700;
