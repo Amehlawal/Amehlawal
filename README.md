@@ -1,4 +1,4 @@
-- 🌱 Software Engineer
+- 🌱 Cloud & Software Engineer
 - 🧑‍💻 🧘+🏹+🎯
 
 <!---
