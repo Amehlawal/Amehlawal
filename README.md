@@ -6,10 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a results-driven software engineer and tech educator with experience in:
+I'm a results-driven Tech Professional and tech educator with experience in:
 
 - 🔐 **Cybersecurity** – Training students in ethical hacking, Linux/Windows hardening, SIEM, and defensive operations.
 - ☁️ **Cloud Computing** – Building cloud-native solutions with **Azure**, **AWS**, and **GCP**; focusing on DevOps, SRE, and networking.
+- 🌐 **Computer Networking** – Designing and teaching hands-on labs in **IP addressing**, **routing**, **VPNs**, **firewalls**, and **hybrid cloud** connectivity.
 - 🧠 **AI & Data Science** – Exploring data-driven decision-making using Python, ML models, and dashboard visualizations.
 - 🛠️ **Full-Stack Development** – Crafting scalable web applications with **ASP.NET Core**, **Django**, **JavaScript**, **SQL**, and **Bootstrap**.
 - 📚 **Tech Education** – Designing and delivering 16+ week curricula for university-level and private IT programs.
@@ -49,6 +50,8 @@ I'm a results-driven software engineer and tech educator with experience in:
   - Scripted solution to monitor and reduce cloud spending in AWS.
 - **🛒 E-commerce CMS (ASP.NET Core)**
   - Custom admin dashboard with secure authentication and CMS features.
+- **☁️ Cloud Networking Sandbox (GCP)**
+  - Hybrid connectivity lab with DNS forwarding, custom routes, and firewalls.
 
 > You can find these and more in my repositories!
 
@@ -62,12 +65,22 @@ I'm a results-driven software engineer and tech educator with experience in:
 - GCP Devops Engineer
 - Kubernetes and Cloud Native Associate
 
-🎓 Working toward:
+🎓:
 - AZ-104, AZ-305 – Microsoft Azure Certifications  
 - AWS SAA & DEA – AWS Cloud/Data Engineer Track  
 - CompTIA Security+  
 - OSCP (in progress)
 - CEH
+
+---
+## 🧠 Teaching Focus
+
+As a tech educator, I design enterprise-ready labs for:
+- ✅ Subnetting, Routing, DNS
+- ✅ Firewall Configuration, VPN Tunnels
+- ✅ Cloud Engineer, Networking, Devops, DE (GCP, AWS, Azure)
+- ✅ Security Monitoring with Open Source Tools
+- ✅ Ethical Hacking & Forensics
 
 ---
 
@@ -76,8 +89,8 @@ I'm a results-driven software engineer and tech educator with experience in:
 - Open to collaborating on: **Cybersecurity tools**, **Cloud projects**, **AI/ML for security**, **Open-source training labs**
 - Always happy to **mentor**, **teach**, and **learn from others**
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/lawal-ameh) or check out my blog (coming soon!).
-
+📫 Reach me on [LinkedIn](https://linkedin.com/in/lawal-ameh).
+## 💬 Ask me about Software Architecture, Cloud computing (Azure), C#/.NET, Databases, DevOps, Agile methods, People.
 ---
 
 ## 📈 GitHub Stats
@@ -88,6 +101,7 @@ I'm a results-driven software engineer and tech educator with experience in:
 ---
 
 > “The best way to learn is to teach. The best way to grow is to build.” — Let's do both together!
+> “Those who understand the network, control the future of computing.”
 
 
 
