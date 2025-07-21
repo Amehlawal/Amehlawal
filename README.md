@@ -34,8 +34,8 @@ I'm a results-driven software engineer and tech educator with experience in:
 **Cybersecurity Tools**: Wazuh, ELK Stack, Metasploit, Wireshark, Nmap  
 **Web/Frameworks**: ASP.NET Core, Django, Bootstrap, WordPress  
 **Databases**: SQL Server, PostgreSQL, MongoDB  
-**DevOps**: Git, Docker, CI/CD, Terraform  
-**Other**: SSIS, Power BI, MQL5, Pfsense, VirtualBox, Hyper-V
+**DevOps**: Git, Docker, CI/CD, Terraform, Kubernetes
+**Other**: Power BI, MQL5, Pfsense, VirtualBox, Hyper-V
 
 ---
 
@@ -56,12 +56,18 @@ I'm a results-driven software engineer and tech educator with experience in:
 
 ## 🧩 Certifications & Learning Goals
 
+- GCP Network Engineer  
+- GCP Security Engineer  
+- GCP Cloud Architect  
+- GCP Devops Engineer
+- Kubernetes and Cloud Native Associate
+
 🎓 Working toward:
 - AZ-104, AZ-305 – Microsoft Azure Certifications  
 - AWS SAA & DEA – AWS Cloud/Data Engineer Track  
-- GCP Network Engineer  
 - CompTIA Security+  
-- OSCP (in progress)  
+- OSCP (in progress)
+- CEH
 
 ---
 
@@ -70,14 +76,14 @@ I'm a results-driven software engineer and tech educator with experience in:
 - Open to collaborating on: **Cybersecurity tools**, **Cloud projects**, **AI/ML for security**, **Open-source training labs**
 - Always happy to **mentor**, **teach**, and **learn from others**
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile) or check out my blog (coming soon!).
+📫 Reach me on [LinkedIn](https://linkedin.com/in/lawal-ameh) or check out my blog (coming soon!).
 
 ---
 
 ## 📈 GitHub Stats
 
-![Lawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Lawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amehlawal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amehlawal&layout=compact&theme=radical)
 
 ---
 
@@ -85,8 +91,7 @@ I'm a results-driven software engineer and tech educator with experience in:
 
 
 
-- 🌱 Cloud & Software Engineer
-- 🧑‍💻 🧘+🏹+🎯
+- 🌱 🧑‍💻 🧘+🏹+🎯
 
 <!---
 Amehlawal/Amehlawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
