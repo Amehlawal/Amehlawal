@@ -36,7 +36,7 @@ I'm a results-driven Tech Professional and tech educator with experience in:
 **Web/Frameworks**: ASP.NET Core, Django, Bootstrap, WordPress  
 **Databases**: SQL Server, PostgreSQL, MongoDB  
 **DevOps**: Git, Docker, CI/CD, Terraform, Kubernetes
-**Other**: Power BI, MQL5, Pfsense, VirtualBox, Hyper-V
+**Other**: Power BI, Pfsense, VirtualBox, Hyper-V
 
 ---
 
@@ -84,12 +84,16 @@ As a tech educator, I design enterprise-ready labs for:
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Collaborate, Let's Connect
 
 - Open to collaborating on: **Cybersecurity tools**, **Cloud projects**, **AI/ML for security**, **Open-source training labs**
 - Always happy to **mentor**, **teach**, and **learn from others**
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/lawal-ameh).
+📫 Reach me on [LinkedIn](https://linkedin.com/in/lawal-ameh). 📬 Email:[Email Me](mailto:uzumakilawal@gmail.com)
+🌐 Cybersecurity: [portfolio](https://amehlawal.netlify.app/)
+🌐 Software & Cloud: [portfolio](https://devamehlawal.netlify.app/)
+
+
 ## 💬 Ask me about Software Architecture, Cloud computing (Azure), C#/.NET, Databases, DevOps, Agile methods, People.
 ---
 
